@@ -8,17 +8,17 @@
  */
 void print_array(int *arr, int size)
 {
-    int i;
+	int i;
 
-    for (i = 0; i < size; i++)
-    {
-        printf("%d", arr[i]);
+	for (i = 0; i < size; i++)
+	{
+		printf("%d", arr[i]);
 
-        if (i != size - 1)
-        {
-            printf(", ");
-        }
-    }
+		if (i != size - 1)
+		{
+			printf(", ");
+		}
+	}
 
-    printf("\n");
+	printf("\n");
 }
