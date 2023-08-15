@@ -1,4 +1,4 @@
-#include <main.h>
+#include "main.h"
 /**
  * main - Entry point
  * Description: 'prints _putchar to stdout'
@@ -9,11 +9,11 @@ int main(void)
 	_putchar('_');
 	_putchar('p');
 	_putchar('u');
-	_putcher('t');
-	_putcher('c');
-	_putcher('h');
-	_putcher('a');
-	_putcher('r');
-	_putcher('\n');
+	_putchar('t');
+	_putchar('c');
+	_putchar('h');
+	_putchar('a');
+	_putchar('r');
+	_putchar('\n');
 	return (0);
 }
