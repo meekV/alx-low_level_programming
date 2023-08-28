@@ -1,1 +1,1 @@
-0x07-ointers_arrays_strings
+0x07-pointers_arrays_strings
